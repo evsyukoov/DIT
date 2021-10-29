@@ -1,8 +1,0 @@
-app/data/rest/RestMoney.class
-app/data/Currency.class
-app/controller/MainController.class
-app/data/Money.class
-app/client/Client.class
-app/service/ExchangeService.class
-app/SpringServer.class
-app/config/WebSecurityConfig.class
